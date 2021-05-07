@@ -1,0 +1,10 @@
+.background{
+background-image: url('pg.png');
+background-position:center; 
+background-size:cover;
+color: blue; 
+}
+canvas{
+border:5px ridge black; 
+background-color: aliceblue;   
+}
